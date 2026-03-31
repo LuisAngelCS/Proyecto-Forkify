@@ -1,0 +1,20 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Proyecto final Programacion con JavaScript II",
+  "source": "index.html",
+  "author": "Luis Angel Carranza",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
+    "parcel": "^2.8.0"
+  },
+  "dependencies": {
+    "core-js": "^3.37.1",
+    "fracty": "^1.0.12",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
